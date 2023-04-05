@@ -25,6 +25,9 @@
         Console.WriteLine(numbers[new Index(2, true)]);
 
         // Example 4
+        Console.WriteLine("Example 4");
+        Console.WriteLine(text[1..9]);
+        Console.WriteLine(text[1..^1]);
 
     }
 }
